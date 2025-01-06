@@ -1,0 +1,57 @@
+
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  
+  .hero {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+  }
+  
+  .hero-content {
+    position: relative;
+    z-index: 10;
+  }
+  
+  .mySwiper .swiper-pagination-bullet {
+    background: #ffffff;
+  }
+  
+  .mySwiper .swiper-button-next,
+  .mySwiper .swiper-button-prev {
+    color: #ffffff;
+  }
+
+  .corner-borders {
+    border: 10px solid transparent; /* Makes space for the gradient */
+    border-image: linear-gradient(to right, #362063, #4b2a8a) 1; /* Applies gradient to border */
+}

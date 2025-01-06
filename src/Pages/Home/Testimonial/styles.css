@@ -1,0 +1,30 @@
+.mySwiper .swiper-slide-active .testimonial-slide {
+    background: linear-gradient(to right, #362063, #4b2a8a);
+    transform: scale(1.05); /* Slightly enlarge the active slide */
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .mySwiper .swiper-pagination-bullet {
+    background: #ffffff;
+  }
+  
+  .mySwiper .swiper-button-next,
+  .mySwiper .swiper-button-prev {
+    color: #ffffff;
+  }
+  
+  .testimonial-slide {
+    transition: transform 0.3s ease;
+  }
+  
+  .testimonial-slide:hover {
+    transform: scale(1.05);
+  }
+  
+  .avatar img {
+    transition: transform 0.3s ease;
+  }
+  
+  .avatar img:hover {
+    transform: scale(1.1);
+  }

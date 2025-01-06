@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Custom Software, Design & Development",
+        "details": "TixTrip (A B2B Air Ticket Booking App)",
+        "image": "https://i.ibb.co.com/rHh1dX2/Screenshot-2025-01-06-135705.png"
+    },
+    {
+        "id": 2,
+        "name": "Project 2",
+        "details": "TixTrip (A B2B Air Ticket Booking App)",
+        "image": "https://i.ibb.co.com/wL8TR7J/software-dev.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Project 3",
+        "details": "TixTrip (A B2B Air Ticket Booking App)",
+        "image": "https://i.ibb.co.com/f19BcNv/website.png"
+    },
+    {
+        "id": 4,
+        "name": "Project 4",
+        "details": "TixTrip (A B2B Air Ticket Booking App)",
+        "image": "https://i.ibb.co.com/b5Sk1sf/ecommerce.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Project 5",
+        "details": "TixTrip (A B2B Air Ticket Booking App)",
+        "image": "https://i.ibb.co.com/2s2fyFz/custom-software.jpg"
+    }
+]

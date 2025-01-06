@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Website Development",
+		"description": "Create responsive, user-friendly websites tailored to your business needs with modern design techniques and technologies.",
+		"image": "https://i.ibb.co.com/GWZZsNL/Screenshot-2025-01-05-151021.png"
+	},
+	{
+		"title": "Apps Development",
+		"description": "Unlock tailored app development services to your business goals, ensuring seamless functionality and sustainable growth.",
+		"image": "https://i.ibb.co.com/P1X2Dwr/app-dev-logo.png"
+	},
+	{
+		"title": "Software Development",
+		"description": "Custom software that makes things easier, boosts efficiency, and fits your business needs just right.",
+		"image": "https://i.ibb.co.com/pdHYPg4/soft-dev-logo.png"
+	},
+	{
+		"title": "Domain & Hosting Services",
+		"description": "Custom software that makes things easier, boosts efficiency, and fits your business needs just right.",
+		"image": "https://i.ibb.co.com/mJ1n54Y/cloud-hosting-logo.png"
+	},
+	{
+		"title": "Payment Gateway Solutions",
+		"description": "Custom software that makes things easier, boosts efficiency, and fits your business needs just right.",
+		"image": "https://i.ibb.co.com/WzPVxvB/payment-gateway-logo.png"
+	},
+	{
+		"title": "Digital Payment Solutions",
+		"description": "Custom software that makes things easier, boosts efficiency, and fits your business needs just right.",
+		"image": "https://i.ibb.co.com/vQPkTnp/digital-payment-logo.png"
+	}
+]

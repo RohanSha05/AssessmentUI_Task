@@ -1,0 +1,33 @@
+.elementor-button {
+    background: linear-gradient(to right bottom, #768cc6, #6370ae, #535596, #443b7c, #362063);
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .elementor-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .blog-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+  }
+  
+  .blog-card .content {
+    flex-grow: 1;
+  }
+  
+  .blog-card .footer {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+  }
