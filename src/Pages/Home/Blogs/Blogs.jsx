@@ -116,12 +116,6 @@ const Blogs = () => {
 				{blogs.map((blog, index) => (
 					<SwiperSlide key={index}>
 						<div className="blog-card bg-gradient-to-r from-[#362063] to-[#4b2a8a] text-stark p-4 shadow-lg">
-							<img
-								src={blog.image}
-								alt={blog.title}
-								style={{ width: "100%", height: "100%" }}
-								className=" object-cover rounded-t-lg"
-							/>
 							<div className="flex justify-between  items-center mb-4 ">
 								<button className="elementor-button">Read More</button>
 								<button className="elementor-button">Share</button>
