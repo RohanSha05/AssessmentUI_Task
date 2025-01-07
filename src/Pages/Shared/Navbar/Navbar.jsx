@@ -33,8 +33,8 @@ const Navbar = () => {
 	);
 
 	return (
-		<div className="navbar fixed top-0 left-0 w-full z-50 shadow-md">
-			<div className="navbar-start">
+		<div className="navbar fixed top-0 bg-black bg-opacity-30 left-0 w-full z-50 shadow-md">
+			<div className="navbar-start m-3">
 				<div className="dropdown">
 					<div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
 						<svg
@@ -54,20 +54,20 @@ const Navbar = () => {
 					</div>
 					<ul
 						tabIndex={0}
-						className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
+						className="menu menu-sm dropdown-content text-stark bg-base-300 rounded-box z-[1] mt-3 w-52 p-2 shadow"
 					>
 						{navItems}
 					</ul>
 				</div>
-				<a className="btn btn-ghost text-xl">AssessmentUI</a>
+				<a className="btn btn-ghost text-stark text-xl">AssessmentUI</a>
 			</div>
 			<div className="navbar-center ">
-				<ul className="menu menu-horizontal px-1">
-                    {navItems}
-                </ul>
+				<ul className="menu menu-horizontal px-1 font-semibold  text-stark">
+					{navItems}
+				</ul>
 			</div>
 			<div className="navbar-end">
-				<a className="btn">Button</a>
+				<a className="btn btn-ghost text-stark">SignUp</a>
 			</div>
 		</div>
 	);

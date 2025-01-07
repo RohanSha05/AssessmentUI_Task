@@ -1,9 +1,10 @@
 .elementor-button {
     background: linear-gradient(to right bottom, #768cc6, #6370ae, #535596, #443b7c, #362063);
     color: white;
-    padding: 8px 16px;
+    padding: 4px 10px;
+    font-size: 0.9rem;
     border: none;
-    border-radius: 5px;
+    border-radius: 100px;
     cursor: pointer;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
   }

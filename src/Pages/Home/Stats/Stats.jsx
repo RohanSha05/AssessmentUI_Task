@@ -117,19 +117,22 @@ const Stats = () => {
   }, []);
 
   return (
-    <div ref={statsRef} className="stats-section py-16 px-8 text-white">
-      <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-        {statsData.map((stat, index) => (
-          <div key={index} className="stat text-white bg-gradient-to-r from-[#362063] to-[#4b2a8a] rounded-lg shadow-lg p-6">
-            <div className="stat-figure text-white">{stat.icon}</div>
-            <div className="stat-title text-white">{stat.title}</div>
-            <div className="stat-value text-white">{counts[index]}+</div>
-            <div className="stat-desc text-white">{stat.desc}</div>
-          </div>
-        ))}
-      </div>
-    </div>
-  );
+		<div ref={statsRef} className="stats-section py-16 px-8 text-stark">
+			<div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+				{statsData.map((stat, index) => (
+					<div
+						key={index}
+						className="stat text-stark bg-gradient-to-r from-[#362063] to-[#4b2a8a] rounded-lg shadow-lg p-6"
+					>
+						<div className="stat-figure text-stark">{stat.icon}</div>
+						<div className="stat-title text-stark">{stat.title}</div>
+						<div className="stat-value text-stark">{counts[index]}+</div>
+						<div className="stat-desc text-stark">{stat.desc}</div>
+					</div>
+				))}
+			</div>
+		</div>
+	);
 };
 
 export default Stats;

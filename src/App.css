@@ -6,3 +6,25 @@ body {
   font-family: sans-serif;
   background-color: #0f0520;
 }
+
+.text-stark {
+  color: #fffbfbd2;
+}
+
+
+
+.stark-button {
+  background: linear-gradient(to right bottom, #768cc6, #6370ae, #535596, #443b7c, #362063);
+  color: white;
+  padding: 4px 10px;
+  font-size: 0.9rem;
+  border: none;
+  border-radius: 100px;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.stark-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
