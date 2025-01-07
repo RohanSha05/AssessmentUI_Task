@@ -5,6 +5,8 @@
 ![Screenshot 2025-01-07 231033](https://github.com/user-attachments/assets/6a67a04c-8af7-4d00-bc22-7b4fc328b653)
 ![Screenshot 2025-01-07 231057](https://github.com/user-attachments/assets/4870199e-4336-43d0-8576-d47a918a7147)
 ![Screenshot 2025-01-07 231109](https://github.com/user-attachments/assets/362d0e4a-2f35-44b7-b1e5-862504b77e0f)
+# LiveSite 
+https://assessment-ui-task.vercel.app/
 To install this project:
 # Clone the repository
 git clone <repository_url>
