@@ -1,3 +1,10 @@
+![Screenshot 2025-01-07 230929](https://github.com/user-attachments/assets/517a794e-d493-40b9-a314-695826990950)
+![Screenshot 2025-01-07 230954](https://github.com/user-attachments/assets/83fd6fab-84a2-446c-8b2e-9891ae8ea822)
+![Screenshot 2025-01-07 231014](https://github.com/user-attachments/assets/d794877d-fd7d-438a-8f07-7bc98d710bf3)
+![Screenshot 2025-01-07 231022](https://github.com/user-attachments/assets/b860419f-5da4-4c1f-b02a-f3709c5d85aa)
+![Screenshot 2025-01-07 231033](https://github.com/user-attachments/assets/6a67a04c-8af7-4d00-bc22-7b4fc328b653)
+![Screenshot 2025-01-07 231057](https://github.com/user-attachments/assets/4870199e-4336-43d0-8576-d47a918a7147)
+![Screenshot 2025-01-07 231109](https://github.com/user-attachments/assets/362d0e4a-2f35-44b7-b1e5-862504b77e0f)
 To install this project:
 # Clone the repository
 git clone <repository_url>
